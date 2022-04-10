@@ -1,11 +1,11 @@
 Model Information:
-* title:	In Situ Ege Wave Carpet Immersive Visualisation
-* source:	https://sketchfab.com/3d-models/in-situ-ege-wave-carpet-immersive-visualisation-a86b55dce38e499b95d3f4d87d771419
-* author:	Aaron Openshaw (https://sketchfab.com/aaronopenshaw)
+* title:	Water Tank
+* source:	https://sketchfab.com/3d-models/water-tank-cf3c5386e06b4690ae72a0ff90f82214
+* author:	gabi72 (https://sketchfab.com/gabi72)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "In Situ Ege Wave Carpet Immersive Visualisation" (https://sketchfab.com/3d-models/in-situ-ege-wave-carpet-immersive-visualisation-a86b55dce38e499b95d3f4d87d771419) by Aaron Openshaw (https://sketchfab.com/aaronopenshaw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Water Tank" (https://sketchfab.com/3d-models/water-tank-cf3c5386e06b4690ae72a0ff90f82214) by gabi72 (https://sketchfab.com/gabi72) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
