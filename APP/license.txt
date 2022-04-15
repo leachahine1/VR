@@ -1,0 +1,11 @@
+Model Information:
+* title:	Algae
+* source:	https://sketchfab.com/3d-models/algae-ae13e68d3ee74fe59a7832caeaa23aff
+* author:	modernoartist (https://sketchfab.com/modernoartist)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Algae" (https://sketchfab.com/3d-models/algae-ae13e68d3ee74fe59a7832caeaa23aff) by modernoartist (https://sketchfab.com/modernoartist) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
